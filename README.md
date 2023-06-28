@@ -1,8 +1,8 @@
 <img src="https://img.shields.io/badge/YeongJo Jang-000000?style=flat-square&logo=Presto&logoColor=white">  <img src="https://img.shields.io/badge/ww3690vv@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">      
    
    
-👋 Hi there! I'm working as a __Cloud Solutions Architect__ for an AWS Partner.   
-    I have dealt with AWS, Naver Cloud Platform(NCP), and Azure, and over 90% of my work has been related to AWS.
+👋 장영조
+    DevOps, SRE in Finda.
 
 ### Cloud
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white">  <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=Naver&logoColor=white">
