@@ -1,5 +1,5 @@
   ## **장영조**  
-  ## **DevOps, SRE. &nbsp;&nbsp;&nbsp; Finda.**  
+  ## DevOps. Finda. 
   
 <img src="https://img.shields.io/badge/yeongjo@finda.co.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ww3690vv@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">    
